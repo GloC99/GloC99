@@ -1,4 +1,6 @@
-
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/WjfaoYXUwFViqbK66M/giphy.gif" width="285"/>
+</div>
 <h1 align="center">
 Hi there, I'm Yazhuo Cao 👋
 </h1>
@@ -30,9 +32,16 @@ Hi there, I'm Yazhuo Cao 👋
 
 <p align="center">
   MEng Computer Science Student at the University of Manchester <br><br/>
-
+ 
+   <a href="www.linkedin.com/in/yazhuo-cao-012322216">
+    <img src="icons/icons8-linkedin-circled.svg" width=55 height=55> 
+  </a>
+ <!--
+ <a href="mailto:yazhuo.cao@gmail.com">
+    <img src="icons/icons8-linkedin-circled.gif" width=55 height=55>
+  </a>
+  -->
 </p>
-
 
 Powered by [Anuraghazra's GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)
 
