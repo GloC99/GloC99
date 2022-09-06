@@ -6,7 +6,7 @@ Hi there, I'm Yazhuo Cao 👋
 </h1>
 
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gloc99&count_private=true&show_icons=true&hide_border=true&hide_title=true&line_height=30" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gloc99&count_private=true&show_icons=true&hide_border=true&hide_title=true&line_height=30&theme=buefy" />
 </div>
 
 <!--
@@ -23,7 +23,7 @@ Hi there, I'm Yazhuo Cao 👋
 -->
 
 <div align="center">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gloc99&layout=compact&hide=html&langs_count=10" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gloc99&layout=compact&hide=html&langs_count=10&theme=buefy" />
 </div>
 
 <h1 align="center">
