@@ -34,7 +34,7 @@ Hi there, I'm Yazhuo Cao 👋
 </p>
 
 
-Powered by ![Anuraghazra's GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)
+Powered by [Anuraghazra's GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
