@@ -33,7 +33,7 @@ Hi there, I'm Yazhuo Cao 👋
 <p align="center">
   MEng Computer Science Student at the University of Manchester <br><br/>
  
-   <a href="www.linkedin.com/in/yazhuo-cao-012322216">
+   <a href="https://www.linkedin.com/in/yazhuo-cao-012322216">
     <img src="icons/icons8-linkedin-circled.svg" width=55 height=55> 
   </a>
  <!--
