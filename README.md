@@ -36,16 +36,32 @@ Hi there, I'm Yazhuo Cao 👋
    <a href="https://www.linkedin.com/in/yazhuo-cao-012322216">
     <img src="icons/icons8-linkedin-circled.svg" width=55 height=55> 
   </a>
- <!--
  <a href="mailto:yazhuo.cao@gmail.com">
-    <img src="icons/icons8-linkedin-circled.gif" width=55 height=55>
+    <img src="icons/icons8-mail-48.png" width=55 height=55>
   </a>
-  -->
 </p>
+
+<h2 align="center">
+  📝 Projects
+</h2>
+
+<div align="center">
+  
+<a href="https://github.com/GloC99/Bioschemas-Validator"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GloC99&repo=Bioschemas-Validator&show_owner=true&theme=buefy" /></a>
+  
+</div>
+
+
+<h1 align="center">
+  🎉 Credit
+</h1>
 
 Powered by [Anuraghazra's GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)
 
 
+Icons by <a target="_blank" href="https://icons8.com">Icons8</a>
+
+Gif from [Giphy](https://giphy.com/stickers/)
 <!--
 **GloC99/GloC99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
