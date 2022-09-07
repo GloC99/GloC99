@@ -32,7 +32,11 @@ Hi there, I'm Yazhuo Cao 👋
 
 <p align="center">
   MEng Computer Science Student at the University of Manchester <br><br/>
- 
+ <div id="header" align="center">
+   <a href="https://www.manchester.ac.uk"><img src="https://media.giphy.com/media/7OQpC4XSFSNpuyCDNU/giphy.gif" width="170"/></a>
+</div>
+<br></br>
+<p align="center">
    <a href="https://www.linkedin.com/in/yazhuo-cao-012322216">
     <img src="icons/icons8-linkedin-circled.svg" width=55 height=55> 
   </a>
@@ -62,6 +66,12 @@ Powered by [Anuraghazra's GitHub Readme Stats](https://github.com/anuraghazra/gi
 Icons by <a target="_blank" href="https://icons8.com">Icons8</a>
 
 Gif from [Giphy](https://giphy.com/stickers/)
+
+
+<div id="header" align="center">
+  <a href="https://github.com/YechengChu/YechengChu"><img src="https://media.giphy.com/media/7ah0382wGac1Qtv0f7/giphy.gif" width="300"/></a>
+</div>
+
 <!--
 **GloC99/GloC99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
