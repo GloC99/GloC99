@@ -46,6 +46,34 @@ Hi there, I'm Yazhuo Cao 👋
 </p>
 
 <h2 align="center">
+  🛠 Languages and Tools
+</h2>
+
+<div align="center">
+  <!-- https://icons8.com/icons -->
+  <a href="https://www.java.com/en/"><img src="icons/icons8-java.svg" width=65 height=65></a>
+  <a href="https://www.python.org/"><img src="icons/icons8-python.svg" width=65 height=65></a>
+  <a href="https://www.verilog.com/"><img src="icons/verilog.png" width=65 height=65></a>
+  <a href="https://www.mysql.com"><img src="icons/icons8-mysql-logo.svg" width=65 height=65></a>
+  <a href="https://www.w3.org/RDF/"><img src="icons/rdf%20format.svg" width=65 height=65></a>
+</div>
+
+<div align="center">
+  <a href="https://www.opengl.org"><img src="icons/Opengl-logo.svg" width=65 height=65></a>
+  <a href="https://opencv.org"><img src="icons/icons8-opencv.svg" width=65 height=65></a>
+  <a href="https://www.xilinx.com/products/design-tools/ise-design-suite.html"><img src="icons/XilinxISE_DS_Logo.jpg" height=65></a>
+</div>
+
+<div align="center">
+  <a href="https://jupyter.org"><img src="icons/icons8-jupyter.svg" width=65 height=65></a>
+  <a href="https://github.com"><img src="icons/icons8-github.svg" width=65 height=65></a>
+</div>
+
+<div align="center">
+  <a href="https://azure.microsoft.com"><img src="icons/Microsoft_Azure-Logo.wine.png" height=65></a>
+</div>
+
+<h2 align="center">
   📝 Projects
 </h2>
 
