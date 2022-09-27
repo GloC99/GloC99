@@ -81,6 +81,8 @@ Hi there, I'm Yazhuo Cao 👋
   
 <a href="https://github.com/GloC99/Bioschemas-Validator"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GloC99&repo=Bioschemas-Validator&show_owner=true&theme=buefy" /></a>
   
+  
+  <a href="https://github.com/GloC99/Reports-and-Presentations"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GloC99&repo=Reports-and-Presentations&show_owner=true&theme=buefy" /></a>
 </div>
 
 
