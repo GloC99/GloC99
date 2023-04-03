@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/WjfaoYXUwFViqbK66M/giphy.gif" width="285"/>
 </div>
 <h1 align="center">
-Hi there, I'm Yazhuo Cao 👋
+Hi there, thank you for visiting! 👋
 </h1>
 
 <div align="center">
@@ -31,7 +31,17 @@ Hi there, I'm Yazhuo Cao 👋
 </h1>
 
 <p align="center">
-  MEng Computer Science Student at the University of Manchester <br><br/>
+Hi there, thank you for visiting! You have found Yazhuo Cao's GitHub profile. I am an MEng Computer Science student who graduated from the University of Manchester. Here, you'll find some of my report papers and presentations from the university, as well as the Bioschema Validator projects I worked on during my internships using Python and Json-LD schema.
+  </p>
+<p align="center">
+  
+During my time at the university, I had the opportunity to work on a wide range of exciting projects. I designed chips using Verilog and explored the cutting-edge fields of NLP and Computer Vision using Python. I am also experienced in software engineering using both Python and Java, and possess a background in data modelling and querying using XML, JSON, and SPARQL.
+  
+  </p>
+<p align="center">
+I'm proud to have graduated First Class with Honours, and I'm excited to continue growing and learning as a developer. So please, take a look around, leave a comment or two, and don't hesitate to get in touch if you're interested in collaborating!
+</p>
+  <br><br/>
  <div id="header" align="center">
    <a href="https://www.manchester.ac.uk"><img src="https://media.giphy.com/media/7OQpC4XSFSNpuyCDNU/giphy.gif" width="170"/></a>
 </div>
@@ -61,12 +71,13 @@ Hi there, I'm Yazhuo Cao 👋
 <div align="center">
   <a href="https://www.opengl.org"><img src="icons/Opengl-logo.svg" width=65 height=65></a>
   <a href="https://opencv.org"><img src="icons/icons8-opencv.svg" width=65 height=65></a>
-  <a href="https://www.xilinx.com/products/design-tools/ise-design-suite.html"><img src="icons/XilinxISE_DS_Logo.jpg" height=65></a>
+  <a href="https://git-scm.com"><img src="icons/icons8-git-96.png" width=65 height=65></a>
+  <a href="https://www.docker.com/"><img src="icons/icons8-docker-logo-48.png" height=65></a>
 </div>
 
 <div align="center">
   <a href="https://jupyter.org"><img src="icons/icons8-jupyter.svg" width=65 height=65></a>
-  <a href="https://github.com"><img src="icons/icons8-github.svg" width=65 height=65></a>
+  <a href="https://www.xilinx.com/products/design-tools/ise-design-suite.html"><img src="icons/XilinxISE_DS_Logo.jpg" height=65></a>
 </div>
 
 <div align="center">
