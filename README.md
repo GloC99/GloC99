@@ -31,21 +31,21 @@ Hi there, you have found Yazhuo Cao! 👋
 </h1>
 
 <p align="center">
-Hi there, thank you for visiting! You have found Yazhuo Cao's GitHub profile. I am an MEng Computer Science student who graduated from the University of Manchester. Here, you'll find some of my report papers and presentations from the university, as well as the Bioschema Validator projects I worked on during my internships using Python and Json-LD schema.
-  </p>
-<p align="center">
-  
-During my time at the university, I had the opportunity to work on a wide range of exciting projects. I designed chips using Verilog and explored the cutting-edge fields of NLP and Computer Vision using Python. I am also experienced in software engineering using both Python and Java, and possess a background in data modelling and querying using XML, JSON, and SPARQL.
-  
-  </p>
-<p align="center">
-I'm proud to have graduated First Class with Honours, and I'm excited to continue growing and learning as a developer. So please, take a look around, leave a comment or two, and don't hesitate to get in touch if you're interested in collaborating!
+ MEng Computer Science - First Class with Honors - University of Manchester 
 </p>
   <br><br/>
  <div id="header" align="center">
    <a href="https://www.manchester.ac.uk"><img src="https://media.giphy.com/media/7OQpC4XSFSNpuyCDNU/giphy.gif" width="170"/></a>
 </div>
 <br></br>
+I have experience in a wide range of projects, including designing chips using Verilog and exploring NLP and Computer Vision using Python. 
+
+<p align="center">
+ I'm also skilled in software engineering using Python and Java, and have a background in data modelling and querying with XML, JSON, and SPARQL. 
+ 
+  I am eager to continue growing and learning as a developer. Feel free to browse my work and reach out for collaboration opportunities.
+  </p>
+  <br></br>
 <p align="center">
    <a href="https://www.linkedin.com/in/yazhuo-cao-012322216">
     <img src="icons/icons8-linkedin-circled.svg" width=55 height=55> 
