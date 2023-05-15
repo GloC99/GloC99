@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/WjfaoYXUwFViqbK66M/giphy.gif" width="285"/>
 </div>
 <h1 align="center">
-Hi there, you have found Yazhuo Cao! 👋
+Hi there, this is Yazhuo Cao! 👋
 </h1>
 <!-- 
 <div align="center">
