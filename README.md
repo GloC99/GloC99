@@ -6,7 +6,7 @@ Hi there, you have found Yazhuo Cao! 👋
 </h1>
 
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gloc99&count_private=true&show_icons=true&hide_border=true&hide_title=true&line_height=30&theme=buefy" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=gloc99&count_private=true&show_icons=true&hide_border=true&hide_title=true&line_height=30&theme=buefy" />
 </div>
 
 <!--
@@ -23,7 +23,7 @@ Hi there, you have found Yazhuo Cao! 👋
 -->
 
 <div align="center">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gloc99&layout=compact&hide=html&langs_count=10&theme=buefy" />
+  <img height=150 align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gloc99&layout=compact&hide=html&langs_count=10&theme=buefy" />
 </div>
 
 <h1 align="center">
@@ -90,10 +90,10 @@ I have experience in a wide range of projects, including designing chips using V
 
 <div align="center">
   
-<a href="https://github.com/GloC99/Bioschemas-Validator"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GloC99&repo=Bioschemas-Validator&show_owner=true&theme=buefy" /></a>
+<a href="https://github.com/GloC99/Bioschemas-Validator"> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=GloC99&repo=Bioschemas-Validator&show_owner=true&theme=buefy" /></a>
   
   
-  <a href="https://github.com/GloC99/Reports-and-Presentations"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GloC99&repo=Reports-and-Presentations&show_owner=true&theme=buefy" /></a>
+  <a href="https://github.com/GloC99/Reports-and-Presentations"> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=GloC99&repo=Reports-and-Presentations&show_owner=true&theme=buefy" /></a>
 </div>
 
 
