@@ -4,10 +4,15 @@
 <h1 align="center">
 Hi there, you have found Yazhuo Cao! 👋
 </h1>
-
+<!-- 
 <div align="center">
   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=gloc99&count_private=true&show_icons=true&hide_border=true&hide_title=true&line_height=30&theme=buefy" />
+</div> -->
+
+<div align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=GloC99&theme=buefy&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="mystreak"/>
 </div>
+
 
 <!--
 <div align="center">
