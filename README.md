@@ -48,7 +48,7 @@ I have experience in a wide range of projects, including designing chips using V
 <p align="center">
  I'm also skilled in software engineering using Python and Java, and have a background in data modelling and querying with XML, JSON, and SPARQL. 
  
-  I am eager to continue growing and learning as a developer. Feel free to browse my work and reach out for collaboration opportunities.
+<!--   I am eager to continue growing and learning as a developer. Feel free to browse my work and reach out for collaboration opportunities. -->
   </p>
   <br></br>
 <p align="center">
