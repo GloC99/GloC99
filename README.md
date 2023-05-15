@@ -26,10 +26,10 @@ Hi there, this is Yazhuo Cao! 👋
   <img align="center" src="https://activity-graph.herokuapp.com/graph?username=gloc99&theme=minimal&hide_border=true&area=true&hide_title=true&bg_color=white"/>
 </div>
 -->
-
+<!-- 
 <div align="center">
-  <img height=150 align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gloc99&layout=compact&hide=html&langs_count=10&theme=buefy" />
-</div>
+  <img height=150 align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gloc99&layout=compact&hide=html&langs_count=10&theme=buefy&" />
+</div> -->
 
 <h1 align="center">
   About Me
